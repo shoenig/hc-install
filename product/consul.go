@@ -1,6 +1,5 @@
 package product
 
-
 const consulName = "consul"
 
 var Consul = Product{
